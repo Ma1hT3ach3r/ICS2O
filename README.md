@@ -1,5 +1,5 @@
 # ICS2O
-ICS2O Course for Mr. Seidel's classes
 
-* [Course Overview](https://github.com/mrseidel-classes/ICS2O/blob/master/OVERVIEW.md)
-* [Tentative Topics and Resources](https://github.com/mrseidel-classes/ICS2O/blob/master/HELP.md)
+### See the [wiki](https://github.com/mrseidel-classes/ICS2O/wiki) for more information.
+
+![ICS2O OLGs](https://github.com/mrseidel-classes/ICS2O/wiki/images/ICS2O.jpg)
